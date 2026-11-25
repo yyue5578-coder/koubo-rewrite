@@ -1,0 +1,7 @@
+interface:
+  display_name: "爆款改写"
+  short_description: "把爆款库里拆好的爆款改成自己的口播脚本：借骨架、换内核、加增量、拍前相似度自检"
+  default_prompt: "使用 $koubo-rewrite，把这条爆款改成我的口播脚本。"
+
+policy:
+  allow_implicit_invocation: true
